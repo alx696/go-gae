@@ -26,4 +26,5 @@
 
 .idea
 *.iml
+go.sum
 gae
